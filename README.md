@@ -1,4 +1,4 @@
-# tweetNow
+# Tweetscraper
 tweetNow is a simple python project where u can type any user handle as input and you will get 100 most recent tweets where that user handle is apeared.                                                                                                    
 How to use:                                                                                                                
 1. install python twitter tools by typing "pip install twitter"                                                           
